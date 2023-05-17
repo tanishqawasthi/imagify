@@ -1,0 +1,1 @@
+In package.json of server, type: module has been added so that we can use same import and export statements as in react.
